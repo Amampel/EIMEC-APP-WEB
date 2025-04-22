@@ -5,12 +5,6 @@
 </template>
 
 <script setup>
-definePageMeta({
-    pageTransition: {
-        name: 'fade',
-        mode: 'out-in'
-    }
-})
 </script>
 
 <style>
